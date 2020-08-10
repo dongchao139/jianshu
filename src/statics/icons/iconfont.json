@@ -1,0 +1,58 @@
+{
+  "id": "1721513",
+  "name": "jianshu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "这是简书",
+  "glyphs": [
+    {
+      "icon_id": "1898816",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "8815596",
+      "name": "diamond",
+      "font_class": "diamond",
+      "unicode": "e91b",
+      "unicode_decimal": 59675
+    },
+    {
+      "icon_id": "11544977",
+      "name": "dialogue",
+      "font_class": "dialogue",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "401103",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "107543",
+      "name": "笔",
+      "font_class": "pen",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12660046",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    }
+  ]
+}
